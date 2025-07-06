@@ -1,0 +1,50 @@
+{
+  "Schönbrunn Palace": {
+    "name": "Schönbrunn Palace",
+    "description": "The former summer residence of the Habsburgs, famed for its Gloriette, grand gardens, and Baroque architecture.",
+    "image": "images/schonbrunn.jpg",
+    "location": "Vienna, Austria"
+  },
+  "Sisi Museum": {
+    "name": "Sisi Museum",
+    "description": "Dedicated to Empress Elisabeth (Sisi), showcasing her personal artifacts, dresses, and the romantic yet tragic aspects of her life.",
+    "image": "images/sisi_museum.jpg",
+    "location": "Vienna, Austria"
+  },
+  "Mozart Museum": {
+    "name": "Mozart Museum",
+    "description": "Located in Mozart's former residence, displaying his original scores, instruments, and family memorabilia.",
+    "image": "images/mozart_museum.jpg",
+    "location": "Vienna, Austria"
+  },
+  "Haus der Musik": {
+    "name": "Haus der Musik",
+    "description": "An interactive sound museum exploring music, acoustics, and Vienna's great composers with hands‑on exhibits.",
+    "image": "images/haus_der_musik.jpg",
+    "location": "Vienna, Austria"
+  },
+  "Freud Museum": {
+    "name": "Freud Museum",
+    "description": "Preserves the apartment and office of Sigmund Freud, with original furniture, Freud's psychoanalytic couch, and archives.",
+    "image": "images/freud_museum.jpg",
+    "location": "Vienna, Austria"
+  },
+  "University of Vienna": {
+    "name": "University of Vienna",
+    "description": "One of Europe’s oldest universities where Freud studied and later taught, with historic lecture halls and archives.",
+    "image": "images/university_of_vienna.jpg",
+    "location": "Vienna, Austria"
+  },
+  "Belvedere Museum": {
+    "name": "Belvedere Museum",
+    "description": "A historic Baroque palace complex housing Austria's largest collection of Gustav Klimt paintings, including 'The Kiss'.",
+    "image": "images/belvedere.jpg",
+    "location": "Vienna, Austria"
+  },
+  "Kunsthistorisches Museum": {
+    "name": "Kunsthistorisches Museum",
+    "description": "One of the world’s most important fine arts museums, with collections spanning ancient to modern art, including masterpieces by Klimt.",
+    "image": "images/kunsthistorisches.jpg",
+    "location": "Vienna, Austria"
+  }
+}
