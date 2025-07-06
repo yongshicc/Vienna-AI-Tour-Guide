@@ -1,6 +1,7 @@
-streamlit
-transformers
-peft
-datasets
-torch
-sentencepiece
+torch==2.7.0
+transformers==4.52.3
+pandas==2.2.3
+scikit-learn==1.6.1
+datasets==3.6.0
+streamlit==1.45.1
+huggingface_hub
